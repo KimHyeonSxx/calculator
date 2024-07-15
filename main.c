@@ -37,17 +37,17 @@ int main(int argc, char* argv[])
 }
 
 int add(int a, int b){
-    return 0;
+    a + b;
 }
 
 int sub(int a, int b){
-    return 0;
+    a - b;
 }
 
 int multi(int a, int b){
-    return 0;
+    a * b;
 }
 
 int div(int a, int b){
-    return 0;
+    a / b;
 }
