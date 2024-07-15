@@ -10,7 +10,7 @@ int main(int argc, char* argv[])
     int a, b, c;
     char operator;
 
-    printf("문구 띄우기: ");
+    printf("수식을 입력해주세요(예> 1+2): ");
     scanf("%d %c %d", &a, &operator, &b);
 
     switch (operator)
